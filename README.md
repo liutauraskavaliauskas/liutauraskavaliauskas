@@ -32,7 +32,7 @@
 3. **[Exceptions Handling | PHP](https://dev.to/liutauraskavaliauskas/exceptions-handling-php-29m8)**
 4. **[Locality and Simplicity](https://www.linkedin.com/pulse/locality-simplicity-liutauras-kavaliauskas/?trackingId=smoGfZcUfL4GkEFdh4VWHA%3D%3D)**
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/liutauraskavaliauskas) [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />](https://www.linkedin.com/in/liutauraskav/)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/liutauraskavaliauskas) [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/liutauraskav/)
 
 <!--
 **liutauraskavaliauskas/liutauraskavaliauskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
