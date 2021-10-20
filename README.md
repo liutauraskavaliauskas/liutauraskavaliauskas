@@ -19,12 +19,13 @@
   <img src="https://img.shields.io/badge/ElasticSearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-
+<!--
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+-->
 
 1. **[Paying technical debt](https://liutauras.hashnode.dev/paying-technical-debt)** <br> *Oversimplified version*
 2. **[Code Smells](https://liutauras.hashnode.dev/code-smells)** <br> *Quick intro*
